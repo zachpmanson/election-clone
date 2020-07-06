@@ -1,4 +1,5 @@
-
+# Zach Manson 20200707
+# A Python clone of cits1001 project1
 
 class VotingPaper():
 
