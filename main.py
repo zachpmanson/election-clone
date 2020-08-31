@@ -1,3 +1,6 @@
+# Testing script for election.py
+# runs tests on election0.txt, election1.txt
+
 if __name__ == "__main__":
     from election import *
 
